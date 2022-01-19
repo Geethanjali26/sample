@@ -40,7 +40,7 @@ function App() {
     <Form.Control type="text" align="center" placeholder="Enter City Name" />
   </Form.Group><br/>
 
-  <Button variant="success" type="submit" class="btn btn-success">
+  <Button variant="success" type="submit" className="btn btn-success">
     Submit
   </Button>
 </Form>
